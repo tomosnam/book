@@ -1,0 +1,14 @@
+select {
+  padding: 7.5px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+}
+
+label {
+  color: rgb(53, 53, 53);
+}
+
+.noOption {
+  color: #999;
+}
